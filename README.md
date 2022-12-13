@@ -8,5 +8,6 @@
 
 - 👨‍🎓 Bacharel em Sistemas de Informação na FIAP
 - 👨‍💻 Treinador de agente conversacionais com foco em desenvolvimento
+- 📚 Sempre estudando
 
 ⚡ Tecnologias: Java, Node.js, HTML, CSS, JavaScript e SQL
