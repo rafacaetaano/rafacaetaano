@@ -5,7 +5,7 @@
 - 👨‍💻 Treinador de agente conversacionais com foco em desenvolvimento
 - 📚 Sempre estudando
 
-⚡ Tecnologias: Java, Node.js, HTML, CSS, JavaScript, SQL e Git
+⚡ Tecnologias: Java, HTML, CSS, JavaScript, SQL e Git
 
 <h3>Contatos:</h3>
 
