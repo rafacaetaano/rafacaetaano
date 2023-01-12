@@ -2,7 +2,7 @@
 <h3 align="center">Treinador de agentes conversacionais 👨‍💻</h3>
 
 - 👨‍🎓 Bacharel em Sistemas de Informação na FIAP
-- 👨‍💻 Treinador de agente conversacionais com foco em desenvolvimento
+- 👨‍💻 Treinador de agentes conversacionais com foco em desenvolvimento
 - 📚 Sempre estudando
 
 ⚡ Tecnologias: Java, HTML, CSS, JavaScript, SQL e Git
