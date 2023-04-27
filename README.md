@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, sou o Rafael Ferreira Caetano</h1>
+<h1 align="center">Olá, sou o Rafael Ferreira Caetano</h1>
 <h3 align="center">Treinador de agentes conversacionais 👨‍💻</h3>
 
 - 👨‍🎓 Bacharel em Sistemas de Informação na FIAP
