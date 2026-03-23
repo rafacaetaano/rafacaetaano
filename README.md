@@ -10,11 +10,10 @@
 </div>
 
 ```yaml
-nome: Rafael Ferreira Caetano
-localização: São Paulo, Brasil
-formação: Bacharel em Sistemas de Informação - FIAP
-cargo: Desenvolvedor de Software
-interesses: [Backend, Integrações, Arquitetura de Software]
+Nome: Rafael Ferreira Caetano
+Localização: São Paulo, Brasil
+Formação: Bacharel em Sistemas de Informação - FIAP
+Cargo: Desenvolvedor de Software
 ```
 
 <div align="center">
@@ -41,23 +40,10 @@ interesses: [Backend, Integrações, Arquitetura de Software]
 
 ---
 
-### 📊 GitHub Stats
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafacaetaano&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacaetaano&layout=compact&theme=github_dark&hide_border=true" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafacaetaano&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
----
-
 ### 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafacaetano7)
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcaetano0709@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511942093914&text=Ol%C3%A1+Rafael%21&type=phone_number&app_absent=0)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=rafacaetaano&color=58A6FF&style=flat-square&label=Visitantes" alt="Profile views" />
 
 </div>
